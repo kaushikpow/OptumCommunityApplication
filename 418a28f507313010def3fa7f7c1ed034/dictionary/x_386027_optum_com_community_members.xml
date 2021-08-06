@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Community Members" max_length="40" name="x_386027_optum_com_community_members" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Member Name" max_length="40" name="member_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

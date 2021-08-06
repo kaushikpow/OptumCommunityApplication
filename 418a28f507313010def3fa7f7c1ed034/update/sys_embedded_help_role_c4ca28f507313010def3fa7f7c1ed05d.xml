@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_386027_optum_com.community_member" name="x_386027_optum_com.community_member">08ca28f507313010def3fa7f7c1ed059</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 12:57:57</sys_created_on>
+        <sys_id>c4ca28f507313010def3fa7f7c1ed05d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>08ca28f507313010def3fa7f7c1ed059</sys_name>
+        <sys_package display_value="Optum Community" source="x_386027_optum_com">418a28f507313010def3fa7f7c1ed034</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Optum Community">418a28f507313010def3fa7f7c1ed034</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c4ca28f507313010def3fa7f7c1ed05d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 12:57:57</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
