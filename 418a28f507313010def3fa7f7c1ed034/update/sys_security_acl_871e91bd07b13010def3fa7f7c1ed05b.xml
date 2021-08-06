@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_386027_optum_com_help_data</description>
+        <name>x_386027_optum_com_help_data</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 16:42:20</sys_created_on>
+        <sys_id>871e91bd07b13010def3fa7f7c1ed05b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_386027_optum_com_help_data</sys_name>
+        <sys_package display_value="Optum Community" source="x_386027_optum_com">418a28f507313010def3fa7f7c1ed034</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Optum Community">418a28f507313010def3fa7f7c1ed034</sys_scope>
+        <sys_update_name>sys_security_acl_871e91bd07b13010def3fa7f7c1ed05b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 16:42:20</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

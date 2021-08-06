@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="help_area" table="x_386027_optum_com_help_data" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>help_area</element>
+            <name>x_386027_optum_com_help_data</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 16:45:43</sys_created_on>
+            <sys_id>34ee1dbd07b13010def3fa7f7c1ed04f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>help_area</sys_name>
+            <sys_package display_value="Optum Community" source="x_386027_optum_com">418a28f507313010def3fa7f7c1ed034</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Optum Community">418a28f507313010def3fa7f7c1ed034</sys_scope>
+            <sys_update_name>sys_choice_x_386027_optum_com_help_data_help_area</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 16:45:43</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>help_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Global</label>
+            <language>en</language>
+            <name>x_386027_optum_com_help_data</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 16:45:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7bae1dbd07b13010def3fa7f7c1ed04d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 16:45:53</sys_updated_on>
+            <value>global</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>help_area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Local</label>
+            <language>en</language>
+            <name>x_386027_optum_com_help_data</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 16:45:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0ee5dbd07b13010def3fa7f7c1ed003</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 16:46:08</sys_updated_on>
+            <value>local</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="b686d53907b13010def3fa7f7c1ed000" sys_domain="global" table="x_386027_optum_com_member_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>member_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 18:25:55</sys_created_on>
+            <sys_id>94d575fd07f13010def3fa7f7c1ed0f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_386027_optum_com_member_details" sys_domain="global" view="Default view">b686d53907b13010def3fa7f7c1ed000</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 18:25:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 18:25:55</sys_created_on>
+            <sys_id>10d575fd07f13010def3fa7f7c1ed0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_386027_optum_com_member_details" sys_domain="global" view="Default view">b686d53907b13010def3fa7f7c1ed000</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 18:25:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pincode</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 18:25:55</sys_created_on>
+            <sys_id>94d575fd07f13010def3fa7f7c1ed0f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_386027_optum_com_member_details" sys_domain="global" view="Default view">b686d53907b13010def3fa7f7c1ed000</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 18:25:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 18:25:55</sys_created_on>
+            <sys_id>10d539fd07f13010def3fa7f7c1ed016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_386027_optum_com_member_details" sys_domain="global" view="Default view">b686d53907b13010def3fa7f7c1ed000</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 18:25:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone_number</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 18:25:55</sys_created_on>
+            <sys_id>94d539fd07f13010def3fa7f7c1ed016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_386027_optum_com_member_details" sys_domain="global" view="Default view">b686d53907b13010def3fa7f7c1ed000</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 18:25:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 18:25:55</sys_created_on>
+            <sys_id>1cd539fd07f13010def3fa7f7c1ed016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_386027_optum_com_member_details" sys_domain="global" view="Default view">b686d53907b13010def3fa7f7c1ed000</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 18:25:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email_id</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 18:25:55</sys_created_on>
+            <sys_id>90d539fd07f13010def3fa7f7c1ed017</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_386027_optum_com_member_details" sys_domain="global" view="Default view">b686d53907b13010def3fa7f7c1ed000</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 18:25:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_386027_optum_com_member_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 16:09:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b686d53907b13010def3fa7f7c1ed000</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_386027_optum_com_member_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Optum Community" source="x_386027_optum_com">418a28f507313010def3fa7f7c1ed034</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Optum Community">418a28f507313010def3fa7f7c1ed034</sys_scope>
+            <sys_update_name>sys_ui_section_b686d53907b13010def3fa7f7c1ed000</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 16:09:17</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

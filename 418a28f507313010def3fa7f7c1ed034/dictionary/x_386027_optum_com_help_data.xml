@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Help Data" max_length="40" name="x_386027_optum_com_help_data" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element choice="1" label="Help Area" max_length="40" name="help_area" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Global" value="global"/>
+                <element inactive_on_update="false" label="Local" value="local"/>
+            </choice>
+        </element>
+        <element choice="1" label="Information posting" max_length="40" name="information_posting" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="yes"/>
+            </choice>
+        </element>
+        <element label="Member ID" max_length="100" name="member_id" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Pincode" max_length="40" name="pincode" type="string"/>
+    </element>
+</database>

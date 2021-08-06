@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Do you need local or global help?">b58f11fd07b13010def3fa7f7c1ed079</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 17:00:10</sys_created_on>
+        <sys_id>6422297107f13010def3fa7f7c1ed070</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Local</sys_name>
+        <sys_package display_value="Optum Community" source="x_386027_optum_com">418a28f507313010def3fa7f7c1ed034</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Optum Community">418a28f507313010def3fa7f7c1ed034</sys_scope>
+        <sys_update_name>question_choice_6422297107f13010def3fa7f7c1ed070</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 17:00:10</sys_updated_on>
+        <text>Local</text>
+        <value>local</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=6422297107f13010def3fa7f7c1ed070"/>
+</record_update>

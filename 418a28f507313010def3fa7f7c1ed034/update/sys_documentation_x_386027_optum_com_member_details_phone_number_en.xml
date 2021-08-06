@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="phone_number" label="Phone number" language="en" table="x_386027_optum_com_member_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>phone_number</element>
+            <help/>
+            <hint/>
+            <label>Phone number</label>
+            <language>en</language>
+            <name>x_386027_optum_com_member_details</name>
+            <plural>Phone numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 15:24:04</sys_created_on>
+            <sys_id>243c093107b13010def3fa7f7c1ed0d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Phone number</sys_name>
+            <sys_package display_value="Optum Community" source="x_386027_optum_com">418a28f507313010def3fa7f7c1ed034</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Optum Community">418a28f507313010def3fa7f7c1ed034</sys_scope>
+            <sys_update_name>sys_documentation_x_386027_optum_com_member_details_phone_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 15:24:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
