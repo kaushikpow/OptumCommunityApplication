@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Member Details" max_length="40" name="x_386027_optum_com_member_details" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element label="Email ID" max_length="100" name="email_id" type="string"/>
+        <element choice="1" label="Help Area" max_length="40" name="help_area" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Global" value="global"/>
+                <element inactive_on_update="false" label="Local" value="local"/>
+            </choice>
+        </element>
+        <element label="Member Name" max_length="32" name="member_name" type="string"/>
+        <element label="Phone number" max_length="10" name="phone_number" type="string"/>
+        <element label="Pincode" max_length="6" name="pincode" type="string"/>
+        <index name="index">
+            <element name="member_name"/>
+        </index>
+    </element>
+</database>

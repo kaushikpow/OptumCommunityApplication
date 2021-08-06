@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 15:08:32</sys_created_on>
+        <sys_id>01a8057d07713010def3fa7f7c1ed058</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_386027_optum_com_member_details.x_386027_optum_com.member_details_user</sys_name>
+        <sys_package display_value="Optum Community" source="x_386027_optum_com">418a28f507313010def3fa7f7c1ed034</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Optum Community">418a28f507313010def3fa7f7c1ed034</sys_scope>
+        <sys_security_acl display_value="x_386027_optum_com_member_details">89a8057d07713010def3fa7f7c1ed054</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_01a8057d07713010def3fa7f7c1ed058</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 15:08:32</sys_updated_on>
+        <sys_user_role display_value="x_386027_optum_com.member_details_user" name="x_386027_optum_com.member_details_user">7ca8893d07713010def3fa7f7c1ed030</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

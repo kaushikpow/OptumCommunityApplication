@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description/>
+        <event_name>x_386027_optum_com.send.email.to.all</event_name>
+        <fired_by/>
+        <queue/>
+        <suffix>send.email.to.all</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-06 19:21:49</sys_created_on>
+        <sys_id>5782467907353010def3fa7f7c1ed02b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_386027_optum_com.send.email.to.all</sys_name>
+        <sys_package display_value="Optum Community" source="x_386027_optum_com">418a28f507313010def3fa7f7c1ed034</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Optum Community">418a28f507313010def3fa7f7c1ed034</sys_scope>
+        <sys_update_name>sysevent_register_5782467907353010def3fa7f7c1ed02b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 19:21:49</sys_updated_on>
+        <table>x_386027_optum_com_help_data</table>
+    </sysevent_register>
+</record_update>
